@@ -5,3 +5,5 @@ https://nortikin.github.io/sverchok/
 
 TPMS
 https://en.wikipedia.org/wiki/Triply_periodic_minimal_surface
+
+The Blend file is under CC0 license.
