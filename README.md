@@ -3,6 +3,8 @@
 You need Sverchok addon for Blender
 https://nortikin.github.io/sverchok/
 
+In the Scalar Field Formula node, put in any desired formula to generate the surface.
+
 TPMS
 https://en.wikipedia.org/wiki/Triply_periodic_minimal_surface
 
